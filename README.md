@@ -4,6 +4,8 @@
 This guide provides step-by-step instructions for setting up and launching TurtleBot3 navigation using ROS Noetic. The process includes installing necessary packages, setting up the simulation environment in Gazebo, creating a map using SLAM (Simultaneous Localization and Mapping), and launching the navigation stack.
 <br> <br>
 
+## - Prerequisites
+Ensure to install all the required dependences!!
 
 ## Step 1: Install TurtleBot Packages
 
